@@ -1,9 +1,9 @@
 
 scrape:
-	python scraper/scraper.py
+	python3 scraper/scraper.py
 
 serve:
 	server/start_server.sh
 
 upload:
-	python calendar/uploadEvents.py
+	python3 calendar/uploadEvents.py
