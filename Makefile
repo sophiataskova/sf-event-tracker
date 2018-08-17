@@ -5,5 +5,3 @@ scrape:
 serve:
 	server/start_server.sh
 
-upload:
-	python3 calendar/uploadEvents.py
