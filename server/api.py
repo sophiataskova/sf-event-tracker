@@ -1,6 +1,6 @@
 import sys
 # Include modules in parent directory (mainly for /database folder)
-sys.path.append('/Users/hunterhodnett/PersonalProjects/sf-events-tracker')
+# sys.path.append('/Users/hunterhodnett/PersonalProjects/sf-events-tracker')
 
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
